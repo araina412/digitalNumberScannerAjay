@@ -1,0 +1,5 @@
+com\sc\dns\DigitalNumber.class
+com\sc\dns\NumberScanner.class
+com\sc\dns\InputProcessor.class
+com\sc\dns\NumberChunker.class
+com\sc\dns\SymbolMatcher.class

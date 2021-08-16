@@ -1,0 +1,7 @@
+INFO main com.sc.dns.InputProcessor - 000000000
+INFO main com.sc.dns.InputProcessor - 123456789
+INFO main com.sc.dns.InputProcessor - 123?56?89 ILL
+INFO main com.sc.dns.InputProcessor - 000000000
+INFO main com.sc.dns.InputProcessor - 12345???? ILL
+INFO main com.sc.dns.InputProcessor - 123?????? ILL
+INFO main com.sc.dns.InputProcessor - ????????? ILL
